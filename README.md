@@ -2,6 +2,8 @@
 
 Scripts for building our master gene converter tables.
 
+This is a scratch pad, not a proper project. Move along.
+
 ## Docker
 
 Dockerfile.base -> Dockerfile.bd -> docker run -e blah.tar.gz convert.R

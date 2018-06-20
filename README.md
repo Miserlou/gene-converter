@@ -182,3 +182,33 @@ zebrafish
  'zebgene11st': 'pd.zebgene.1.1.st_3.12.0.tar.gz',
  'zebrafish': 'pd.zebrafish_3.12.0.tar.gz'}
 ```
+
+## Bad Hombres
+
+```
+package 'elegene10st.db' is not available (for R version 3.4.4)
+package 'cangene10st.db' is not available (for R version 3.4.4)
+package 'ovigene11st.db' is not available (for R version 3.4.4)
+package 'bovgene11st.db' is not available (for R version 3.4.4)
+package 'clariomshumanht.db' is not available (for R version 3.4.4)
+package 'htmg430a.db' is not available (for R version 3.4.4)
+package 'bovgene10st.db' is not available (for R version 3.4.4)
+package 'equgene10st.db' is not available (for R version 3.4.4)
+package 'rhesus.db' is not available (for R version 3.4.4)
+package 'clariomsrat.db' is not available (for R version 3.4.4)
+package 'chigene11st.db' is not available (for R version 3.4.4)
+package 'porgene11st.db' is not available (for R version 3.4.4)
+package 'ovigene10st.db' is not available (for R version 3.4.4)
+package 'chigene10st.db' is not available (for R version 3.4.4)
+package 'drogene11st.db' is not available (for R version 3.4.4)
+package 'drogene10st.db' is not available (for R version 3.4.4)
+package 'equgene11st.db' is not available (for R version 3.4.4)
+package 'hthgu133pluspm.db' is not available (for R version 3.4.4)
+package 'clariomshuman.db' is not available (for R version 3.4.4)
+package 'cangene11st.db' is not available (for R version 3.4.4)
+package 'elegene11st.db' is not available (for R version 3.4.4)
+package 'zebgene10st.db' is not available (for R version 3.4.4)
+package 'zebgene11st.db' is not available (for R version 3.4.4)
+package 'porgene10st.db' is not available (for R version 3.4.4)
+package 'clariomsmouse.db' is not available (for R version 3.4.4)
+```
